@@ -1,2 +1,3 @@
 # USHousehold_Income_Project
-SQL Data Cleaning Project
+### Description
+The goal of this project is to clean
